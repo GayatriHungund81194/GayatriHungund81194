@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with advanced algorithmic programming.
 - 📫 How to reach me: gayatri811.gh@gmail.com
 
-![github-small](https://github.com/GayatriHungund81194/pics/blob/master/firebase.gif)
+ ![github-small](https://github.com/GayatriHungund81194/pics/blob/master/firebase.gif) ![github-small](https://github.com/GayatriHungund81194/pics/blob/master/firebase.gif)
 
 <!--
 **GayatriHungund81194/GayatriHungund81194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
