@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Gayatri. Welcome to my Github profile.
 - 🔭 I’m currently working on Python, Cloud technologies, Jenkins, Docker, Android, Blockchain, Cryptography, Artificial Intelligence and much more.
-- 🌱 I’m currently learning Kubernetes and Docker Swarm
-- 👯 I’m looking to collaborate on fun projects and real-life problems.
+- 🌱 I’m currently learning Kubernetes and Docker Swarm.
+- 👯 I’m looking to collaborate on fun projects and multi-platform application development.
 - 🤔 I’m looking for help with advanced algorithmic programming.
 - 📫 How to reach me: gayatri811.gh@gmail.com
 
