@@ -7,9 +7,10 @@
 
  ![github-small](https://github.com/GayatriHungund81194/pics/blob/master/android.gif) ![github-small](https://github.com/GayatriHungund81194/pics/blob/master/docker.gif) ![github-small](https://github.com/GayatriHungund81194/pics/blob/master/linux.gif)
  
- ![github-small](https://github.com/GayatriHungund81194/pics/blob/master/octocat.gif) ![github-small](https://github.com/GayatriHungund81194/pics/blob/master/firebase.gif) ![github-small](https://github.com/GayatriHungund81194/pics/blob/master/jenkins.png)
+ ![github-small](https://github.com/GayatriHungund81194/pics/blob/master/octocat.gif) ![github-small](https://github.com/GayatriHungund81194/pics/blob/master/firebase.gif) ![github-small](https://github.com/GayatriHungund81194/pics/blob/master/aws.gif)  
  
- ![github-small](https://github.com/GayatriHungund81194/pics/blob/master/openstack.png) ![github-small](https://github.com/GayatriHungund81194/pics/blob/master/aws.gif) 
+ ![github-small](https://github.com/GayatriHungund81194/pics/blob/master/openstack.png) ![github-small](https://github.com/GayatriHungund81194/pics/blob/master/jenkins.png)
+ 
 
 <!--
 **GayatriHungund81194/GayatriHungund81194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
